@@ -1,2 +1,2 @@
-# first_website
-https://sameharahim.github.io/first_website/
+# firstwebsite
+https://sameharahim.github.io/firstwebsite/
